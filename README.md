@@ -1,7 +1,7 @@
 # picfit 🖼️⚡
 
 **EN | Batch resize & convert photos in seconds — 100% offline, EXIF/GPS stripped by default.**
-**TR | Fotoğrafları saniyeler içinde toplu boyutlandır ve dönüştür — %100 çevrimdışı, EXIF/GPS varsayılan olarak silinir.**
+**TR | FotoSığdır — Fotoğrafları saniyeler içinde toplu boyutlandır ve dönüştür — %100 çevrimdışı, EXIF/GPS varsayılan olarak silinir.**
 
 Sending 20 photos by e-mail? Uploading to a portal that rejects >2 MB? Posting
 photos online without leaking your **GPS location**? One command:
